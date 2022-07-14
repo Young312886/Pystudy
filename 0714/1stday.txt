@@ -39,4 +39,4 @@ Image, Similar to adding url. But you can't edit the size of the pricture. You c
 - git init
 - git remote origin { }
 - git commit " "
-- git push
+- git push(git pust -u origin master => origin master로 계속 push 하겠다)
